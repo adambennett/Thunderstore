@@ -1,7 +1,8 @@
-# Thunderstore
+# TrainStop
 
-Thunderstore is a mod database and API for downloading Risk of Rain 2 mods.
+TrainStop is a mod database and API for downloading Monster Train mods. 
 
+Forked and modified from Thunderstore, written by the Risk of Thunder team for similar purposes but for Risk of Rain 2.
 
 ## Setup guide for development
 
